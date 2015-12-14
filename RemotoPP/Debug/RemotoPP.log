@@ -1,0 +1,24 @@
+﻿Build started 11/4/2015 5:51:10 PM.
+     1>Project "C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\RemotoPP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\SYNAPSES" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MONITORS" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MISCELLANEOUS" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\INTERCOMPARTMENT_CONDUCTANCE" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt RemotoPP.cpp
+         RemotoPP.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\Debug\RemotoPP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\Debug\RemotoPP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\Debug\RemotoPP.lib" /MACHINE:X86 Debug\DC_CURRENT_SOURCE.obj
+         Debug\INTERCOMPARTMENT_CONDUCTANCE.obj
+         Debug\DESTEXHE_KF_CHANNEL.obj
+         Debug\DESTEXHE_KS_CHANNEL.obj
+         Debug\DESTEXHE_NA_CHANNEL.obj
+         Debug\COMPARTMENT.obj
+         Debug\ACTION_POTENCIAL_MONITOR.obj
+         Debug\VOLTAGE_MONITOR.obj
+         Debug\NEURON.obj
+         Debug\NEURON_POOL.obj
+         Debug\RemotoPP.obj
+         Debug\stdafx.obj
+         RemotoPP.vcxproj -> C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\Debug\RemotoPP.exe
+     1>Done Building Project "C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\RemotoPP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.17

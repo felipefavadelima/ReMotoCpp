@@ -1,0 +1,31 @@
+﻿Build started 11/4/2015 5:06:34 PM.
+     1>Project "C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\RemotoPP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES\DC_CURRENT_SOURCE.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\INTERCOMPARTMENT_CONDUCTANCE\INTERCOMPARTMENT_CONDUCTANCE.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_KF_CHANNEL.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_KS_CHANNEL.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_NA_CHANNEL.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPARTMENT.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MONITORS\ACTION_POTENCIAL_MONITOR.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MONITORS\VOLTAGE_MONITOR.cpp NEURON_POOL\NEURON\NEURON.cpp NEURON_POOL\NEURON_POOL.cpp RemotoPP.cpp
+         DC_CURRENT_SOURCE.cpp
+     1>c:\users\felipe\dropbox\visual studio projects\remotopp\remotopp\remotopp\neuron_pool\neuron\compartments\components\current_sources\DC_CURRENT_SOURCE.h(22): fatal error C1083: Cannot open include file: 'DEFAULT_DATA_TYPE.h': No such file or directory
+         INTERCOMPARTMENT_CONDUCTANCE.cpp
+     1>c:\users\felipe\dropbox\visual studio projects\remotopp\remotopp\remotopp\neuron_pool\neuron\compartments\components\intercompartment_conductance\INTERCOMPARTMENT_CONDUCTANCE.h(20): fatal error C1083: Cannot open include file: 'DEFAULT_DATA_TYPE.h': No such file or directory
+         DESTEXHE_KF_CHANNEL.cpp
+     1>c:\users\felipe\dropbox\visual studio projects\remotopp\remotopp\remotopp\neuron_pool\neuron\compartments\components\ionic_channels\DESTEXHE_KF_CHANNEL.h(22): fatal error C1083: Cannot open include file: 'DEFAULT_DATA_TYPE.h': No such file or directory
+         DESTEXHE_KS_CHANNEL.cpp
+     1>c:\users\felipe\dropbox\visual studio projects\remotopp\remotopp\remotopp\neuron_pool\neuron\compartments\components\ionic_channels\DESTEXHE_KS_CHANNEL.h(22): fatal error C1083: Cannot open include file: 'DEFAULT_DATA_TYPE.h': No such file or directory
+         DESTEXHE_NA_CHANNEL.cpp
+     1>c:\users\felipe\dropbox\visual studio projects\remotopp\remotopp\remotopp\neuron_pool\neuron\compartments\components\ionic_channels\DESTEXHE_NA_CHANNEL.h(22): fatal error C1083: Cannot open include file: 'DEFAULT_DATA_TYPE.h': No such file or directory
+         COMPARTMENT.cpp
+     1>c:\users\felipe\dropbox\visual studio projects\remotopp\remotopp\remotopp\neuron_pool\neuron\compartments\COMPARTMENT.h(18): fatal error C1083: Cannot open include file: 'DEFAULT_DATA_TYPE.h': No such file or directory
+         ACTION_POTENCIAL_MONITOR.cpp
+     1>c:\users\felipe\dropbox\visual studio projects\remotopp\remotopp\remotopp\neuron_pool\neuron\compartments\components\monitors\ACTION_POTENCIAL_MONITOR.h(25): fatal error C1083: Cannot open include file: 'DEFAULT_DATA_TYPE.h': No such file or directory
+         VOLTAGE_MONITOR.cpp
+     1>c:\users\felipe\dropbox\visual studio projects\remotopp\remotopp\remotopp\neuron_pool\neuron\compartments\components\monitors\MONITORS.h(25): fatal error C1083: Cannot open include file: 'DEFAULT_DATA_TYPE.h': No such file or directory
+         NEURON.cpp
+     1>c:\users\felipe\dropbox\visual studio projects\remotopp\remotopp\remotopp\neuron_pool\neuron\NEURON.h(19): fatal error C1083: Cannot open include file: 'DEFAULT_DATA_TYPE.h': No such file or directory
+         NEURON_POOL.cpp
+     1>c:\users\felipe\dropbox\visual studio projects\remotopp\remotopp\remotopp\neuron_pool\NEURON_POOL.h(19): fatal error C1083: Cannot open include file: 'DEFAULT_DATA_TYPE.h': No such file or directory
+         RemotoPP.cpp
+     1>RemotoPP.cpp(18): fatal error C1083: Cannot open include file: 'NEURON_POOL.h': No such file or directory
+     1>Done Building Project "C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\RemotoPP.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.85

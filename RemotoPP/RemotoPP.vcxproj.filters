@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\NEURON_POOLS">
+      <UniqueIdentifier>{38975e9c-e352-45ad-a11a-57aed2551c26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NEURON_POOLS\NEURONS">
+      <UniqueIdentifier>{b0fc0801-169b-4bb5-bb39-b2f8d8615b34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS">
+      <UniqueIdentifier>{a9efe8e2-1513-441a-a1c4-b95ba46b3a05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS">
+      <UniqueIdentifier>{f025dee3-d432-4eb4-bd64-f6fc38de7de3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS">
+      <UniqueIdentifier>{11f4ae18-e42c-4463-87b5-822492592591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES">
+      <UniqueIdentifier>{c246bab4-f919-4bf8-841d-b2cff6adbc6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\SYNAPSES">
+      <UniqueIdentifier>{a542ee2b-8de6-4540-a181-b4df62754291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NEURON_POOLS">
+      <UniqueIdentifier>{ea99eeb1-fce8-41d0-858b-ea791cdf4220}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NEURON_POOLS\NEURONS">
+      <UniqueIdentifier>{ad929582-7efc-4b18-b899-0d1fbededf35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS">
+      <UniqueIdentifier>{31392335-7568-494e-b147-698afef4246c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS">
+      <UniqueIdentifier>{ccd43799-0ec5-407a-b2f8-3d9692837142}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS">
+      <UniqueIdentifier>{b337471f-8c6f-4aea-b5cf-23e270688d1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES">
+      <UniqueIdentifier>{7f64c750-8381-4b8a-8eae-6703515a5aac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\SYNAPSES">
+      <UniqueIdentifier>{8c7b8453-bf73-4960-8534-e5cc1cf34186}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\MONITORS">
+      <UniqueIdentifier>{d23b0945-7382-4f60-8ade-fc460f089aad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\MONITORS">
+      <UniqueIdentifier>{1a8ccf2b-6bff-4d49-9863-1eedeb1dade4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\INTERCOMPARTMENT_CONDUCTANCE">
+      <UniqueIdentifier>{e431873c-4f04-42ac-941e-3989434f5666}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\MISCELLANEOUS">
+      <UniqueIdentifier>{dbccf409-db3b-44e9-8d1a-ae573f14a7cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\INTERCOMPARTMENT_CONDUCTANCE">
+      <UniqueIdentifier>{5fc20209-339e-4f88-b977-f2c3d8f67f84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\MISCELLANEOUS">
+      <UniqueIdentifier>{dc0b4401-920d-4071-9ad6-e75cd467fa27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SIMULATOR">
+      <UniqueIdentifier>{2d824fc1-5b52-432b-af97-46ac10e8d023}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MATLAB">
+      <UniqueIdentifier>{c5852938-be3d-4a19-a428-e3959ccde979}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\SIMULATOR">
+      <UniqueIdentifier>{ea7bc0df-41e2-42c3-b101-6a5fae9243ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MATLAB">
+      <UniqueIdentifier>{701e04a4-7224-4bc0-a42d-b019337c4c0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MONITOR">
+      <UniqueIdentifier>{7b38c77b-f4fe-4a88-97b6-8fd127c11f81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DEFAULT_DATA_TYPE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_KF_CHANNEL.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_KS_CHANNEL.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_NA_CHANNEL.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES\DC_CURRENT_SOURCE.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPARTMENT.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\IONIC_CHANNELS.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES\CURRENT_SOURCES.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\SYNAPSES\SYNAPSES.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\SYNAPSES</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MONITORS\ACTION_POTENCIAL_MONITOR.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\MONITORS</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MONITORS\VOLTAGE_MONITOR.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\MONITORS</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MISCELLANEOUS\MISCELLANEOUS.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\MISCELLANEOUS</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\INTERCOMPARTMENT_CONDUCTANCE\INTERCOMPARTMENT_CONDUCTANCE.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\INTERCOMPARTMENT_CONDUCTANCE</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON\NEURON.h">
+      <Filter>Header Files\NEURON_POOLS\NEURONS</Filter>
+    </ClInclude>
+    <ClInclude Include="NEURON_POOL\NEURON_POOL.h">
+      <Filter>Header Files\NEURON_POOLS</Filter>
+    </ClInclude>
+    <ClInclude Include="RANGE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MATLAB\MATLAB.h">
+      <Filter>Header Files\MATLAB</Filter>
+    </ClInclude>
+    <ClInclude Include="SIMULATOR\SIMULATOR.h">
+      <Filter>Header Files\SIMULATOR</Filter>
+    </ClInclude>
+    <ClInclude Include="SIMULATOR\SIMULATOR_THREAD.h">
+      <Filter>Header Files\SIMULATOR</Filter>
+    </ClInclude>
+    <ClInclude Include="MONITOR\MONITORS.h">
+      <Filter>MONITOR</Filter>
+    </ClInclude>
+    <ClInclude Include="FAST_MATH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_KS_CHANNEL.cpp">
+      <Filter>Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS</Filter>
+    </ClCompile>
+    <ClCompile Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_NA_CHANNEL.cpp">
+      <Filter>Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS</Filter>
+    </ClCompile>
+    <ClCompile Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES\DC_CURRENT_SOURCE.cpp">
+      <Filter>Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES</Filter>
+    </ClCompile>
+    <ClCompile Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPARTMENT.cpp">
+      <Filter>Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS</Filter>
+    </ClCompile>
+    <ClCompile Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MONITORS\ACTION_POTENCIAL_MONITOR.cpp">
+      <Filter>Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\MONITORS</Filter>
+    </ClCompile>
+    <ClCompile Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MONITORS\VOLTAGE_MONITOR.cpp">
+      <Filter>Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\MONITORS</Filter>
+    </ClCompile>
+    <ClCompile Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\INTERCOMPARTMENT_CONDUCTANCE\INTERCOMPARTMENT_CONDUCTANCE.cpp">
+      <Filter>Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\INTERCOMPARTMENT_CONDUCTANCE</Filter>
+    </ClCompile>
+    <ClCompile Include="NEURON_POOL\NEURON\NEURON.cpp">
+      <Filter>Source Files\NEURON_POOLS\NEURONS</Filter>
+    </ClCompile>
+    <ClCompile Include="NEURON_POOL\NEURON_POOL.cpp">
+      <Filter>Source Files\NEURON_POOLS</Filter>
+    </ClCompile>
+    <ClCompile Include="MAIN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_KF_CHANNEL.cpp">
+      <Filter>Source Files\NEURON_POOLS\NEURONS\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS</Filter>
+    </ClCompile>
+    <ClCompile Include="MATLAB\MATLAB.cpp">
+      <Filter>Source Files\MATLAB</Filter>
+    </ClCompile>
+    <ClCompile Include="SIMULATOR\SIMULATOR.cpp">
+      <Filter>Source Files\SIMULATOR</Filter>
+    </ClCompile>
+    <ClCompile Include="SIMULATOR\SIMULATOR_THREAD.cpp">
+      <Filter>Source Files\SIMULATOR</Filter>
+    </ClCompile>
+    <ClCompile Include="FAST_MATH.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,46 @@
+﻿Build started 11/18/2015 2:47:35 PM.
+     1>Project "C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\RemotoPP.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\SYNAPSES" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MONITORS" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MISCELLANEOUS" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\INTERCOMPARTMENT_CONDUCTANCE" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\SIMULATOR" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\MATLAB" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\MONITOR" /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt FAST_MATH.cpp MATLAB\MATLAB.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\CURRENT_SOURCES\DC_CURRENT_SOURCE.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\INTERCOMPARTMENT_CONDUCTANCE\INTERCOMPARTMENT_CONDUCTANCE.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_KF_CHANNEL.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_KS_CHANNEL.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\IONIC_CHANNELS\DESTEXHE_NA_CHANNEL.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPARTMENT.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MONITORS\ACTION_POTENCIAL_MONITOR.cpp NEURON_POOL\NEURON\COMPARTMENTS\COMPONENTS\MONITORS\VOLTAGE_MONITOR.cpp NEURON_POOL\NEURON\NEURON.cpp NEURON_POOL\NEURON_POOL.cpp MAIN.cpp SIMULATOR\SIMULATOR.cpp SIMULATOR\SIMULATOR_THREAD.cpp stdafx.cpp
+         FAST_MATH.cpp
+         MATLAB.cpp
+         DC_CURRENT_SOURCE.cpp
+         INTERCOMPARTMENT_CONDUCTANCE.cpp
+         DESTEXHE_KF_CHANNEL.cpp
+         DESTEXHE_KS_CHANNEL.cpp
+         DESTEXHE_NA_CHANNEL.cpp
+         COMPARTMENT.cpp
+         ACTION_POTENCIAL_MONITOR.cpp
+         VOLTAGE_MONITOR.cpp
+         NEURON.cpp
+         NEURON_POOL.cpp
+         MAIN.cpp
+         SIMULATOR.cpp
+         SIMULATOR_THREAD.cpp
+         stdafx.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\x64\Release\RemotoPP.exe" /INCREMENTAL:NO /NOLOGO libmx.lib libeng.lib libmex.lib libmat.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\x64\Release\RemotoPP.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\x64\Release\RemotoPP.lib" /MACHINE:X64 x64\Release\FAST_MATH.obj
+         x64\Release\MATLAB.obj
+         x64\Release\DC_CURRENT_SOURCE.obj
+         x64\Release\INTERCOMPARTMENT_CONDUCTANCE.obj
+         x64\Release\DESTEXHE_KF_CHANNEL.obj
+         x64\Release\DESTEXHE_KS_CHANNEL.obj
+         x64\Release\DESTEXHE_NA_CHANNEL.obj
+         x64\Release\COMPARTMENT.obj
+         x64\Release\ACTION_POTENCIAL_MONITOR.obj
+         x64\Release\VOLTAGE_MONITOR.obj
+         x64\Release\NEURON.obj
+         x64\Release\NEURON_POOL.obj
+         x64\Release\MAIN.obj
+         x64\Release\SIMULATOR.obj
+         x64\Release\SIMULATOR_THREAD.obj
+         x64\Release\stdafx.obj
+         Generating code
+         All 1529 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         RemotoPP.vcxproj -> C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\x64\Release\RemotoPP.exe
+     1>Done Building Project "C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\RemotoPP.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.12

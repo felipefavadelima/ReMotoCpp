@@ -1,0 +1,31 @@
+﻿Build started 11/16/2015 5:03:01 PM.
+     1>Project "C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\RemotoPP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\SIMULATOR" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\MATLAB" /I"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\MONITOR" /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt MAIN.cpp NEURON_POOL\NEURON_POOL.cpp SIMULATOR\SIMULATOR.cpp
+         NEURON_POOL.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         SIMULATOR.cpp
+         MAIN.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\x64\Debug\RemotoPP.exe" /INCREMENTAL /NOLOGO libmx.lib libeng.lib libmex.lib libmat.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\x64\Debug\RemotoPP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\x64\Debug\RemotoPP.lib" /MACHINE:X64 x64\Debug\MATLAB.obj
+         x64\Debug\DC_CURRENT_SOURCE.obj
+         x64\Debug\INTERCOMPARTMENT_CONDUCTANCE.obj
+         x64\Debug\DESTEXHE_KF_CHANNEL.obj
+         x64\Debug\DESTEXHE_KS_CHANNEL.obj
+         x64\Debug\DESTEXHE_NA_CHANNEL.obj
+         x64\Debug\COMPARTMENT.obj
+         x64\Debug\ACTION_POTENCIAL_MONITOR.obj
+         x64\Debug\VOLTAGE_MONITOR.obj
+         x64\Debug\NEURON.obj
+         x64\Debug\NEURON_POOL.obj
+         x64\Debug\MAIN.obj
+         x64\Debug\SIMULATOR.obj
+         x64\Debug\SIMULATOR_THREAD.obj
+         x64\Debug\stdafx.obj
+         RemotoPP.vcxproj -> C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\x64\Debug\RemotoPP.exe
+     1>Done Building Project "C:\Users\felipe\Dropbox\Visual Studio Projects\Remotopp\RemotoPP\RemotoPP\RemotoPP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.05
